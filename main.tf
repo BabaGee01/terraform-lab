@@ -1,3 +1,4 @@
+#TERRAFORM LAB ON A STEP-BY-STEP GUIDE TO PROVISIONING AWS RESOURCES WITH TERRAFORM
 terraform {
   backend "s3" {
     bucket = "terraform-statefiles-babagee"
