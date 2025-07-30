@@ -1,5 +1,5 @@
 #Added the Repository Secrets for Workflow Deployment
-name: Terraform Deployment
+name: Terraform Deployment/Apply
 
 on:
   push:
